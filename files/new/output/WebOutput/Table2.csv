@@ -1,0 +1,8 @@
+Gene calls,Genes annotated by bop27,% of nc_000913 genes
+Detected identical,2146 (CDS= 2076 rRNA= 3 tRAN= 37 ncRAN= 30),47.74%
+Detected similar,106 (CDS= 1 rRNA= 19 tRAN= 51 ncRAN= 35),2.36%
+FN - Short overlap,520,11.57%
+FN - No overlap,1723,38.33%
+FP - Short overlap,465,
+FP - No overlap,1778,
+Similarity score,,50.10%

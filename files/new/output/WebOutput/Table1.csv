@@ -1,0 +1,9 @@
+Annotation Features,nc_000913 Original,nc_000913 Complemented by other AMs,bop27 Original,bop27 Complemented by other AMs,EA,Unique,EUA
+CDS,4319,4319,4319,4319,2077,4484,6561
+rRNA,22,22,22,22,22,0,22
+tRNA,89,89,89,89,88,2,90
+ncRNA,65,65,65,65,65,0,65
+frameshift/Pseudo,2344,2344,2423,2423,101,158,259
+Total,4495,4495,4495,4495,2252,4486,6738
+Orphan genes,1 (0.02%),1 (0.02%),1 (0.02%),1 (0.02%),0 (0.00%),2 (0.04%),2 (0.03%)
+Functional genes,4494 (99.98%),4494 (99.98%),4494 (99.98%),4494 (99.98%),2252 (100.00%),4484 (99.96%),6736 (99.97%)

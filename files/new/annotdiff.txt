@@ -1,0 +1,25 @@
+
+
+bop27vsnc000913v3_nc_000913 file information:
+
+
+bop27vsnc000913v3_bop27 file information:
+
+Start generating extended annotation
+
+Generating Extended and Extended Union annotations from different AMs for [bop27vsnc000913v3]  ...
+
+Trying to transfer functional descriptions for hypothetical genes where one/many of other AMs are  able to provide functional description...
+
+
+Total time elapsed for comparison and extended annotation derivation: 2.346284 sec
+
+Processing for VennDiagram
+Drawing VennDiagram...
+
+
+
+Saving genome comparison features statistics in CSV format: compare/bop27vsnc000913v3_Output.csv
+
+See individual folders for more details
+

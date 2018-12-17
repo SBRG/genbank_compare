@@ -1,0 +1,321 @@
+Those are the similar genes; the first gene belongs to nc_000913 and the second one belongs to bop27
+
+Gene ID	Locus Tag	Product Name	Type	Start	Stop	Discontiguous	FrameShiftted	Status
+NC_000913:complement(join(2172921..2173362,2173365..2174278)):CDS	"b2092"		CDS-pseudo	2172921	2174278	yes 	yes 	Similar 
+NC_000913:complement(join(2172921..2173362,2173363..2174276)):CDS	"b2092"		CDS-pseudo	2172921	2174276	yes 	yes 	Similar 
+
+NC_000913:2286211..2286287:tRNA	"b2189"	"trna-pro"	tRNA	2286211	2286287	no 	no 	Similar 
+NC_000913:2286209..2286285:tRNA	"b2189"	"trna-pro"	tRNA	2286209	2286285	no 	no 	Similar 
+
+NC_000913:2313084..2313176:ncRNA	"b4439"	"srna antisense regulator affecting ompf expression, hfq-dependent"	ncRNA	2313084	2313176	no 	no 	Similar 
+NC_000913:2313082..2313174:ncRNA	"b4439"	"srna antisense regulator affecting ompf expression, hfq-dependent"	ncRNA	2313082	2313174	no 	no 	Similar 
+
+NC_000913:2466309..2466383:tRNA	"b2348"	"trna-arg"	tRNA	2466309	2466383	no 	no 	Similar 
+NC_000913:2466307..2466381:tRNA	"b2348"	"trna-arg"	tRNA	2466307	2466381	no 	no 	Similar 
+
+NC_000913:complement(2518041..2518116):tRNA	"b2396"	"trna-ala"	tRNA	2518041	2518116	no 	no 	Similar 
+NC_000913:complement(2518039..2518114):tRNA	"b2396"	"trna-ala"	tRNA	2518039	2518114	no 	no 	Similar 
+
+NC_000913:complement(2518156..2518231):tRNA	"b2397"	"trna-ala"	tRNA	2518156	2518231	no 	no 	Similar 
+NC_000913:complement(2518154..2518229):tRNA	"b2397"	"trna-ala"	tRNA	2518154	2518229	no 	no 	Similar 
+
+NC_000913:2520931..2521006:tRNA	"b2401"	"trna-val"	tRNA	2520931	2521006	no 	no 	Similar 
+NC_000913:2520929..2521004:tRNA	"b2401"	"trna-val"	tRNA	2520929	2521004	no 	no 	Similar 
+
+NC_000913:2521051..2521126:tRNA	"b2402"	"trna-val"	tRNA	2521051	2521126	no 	no 	Similar 
+NC_000913:2521049..2521124:tRNA	"b2402"	"trna-val"	tRNA	2521049	2521124	no 	no 	Similar 
+
+NC_000913:2521173..2521248:tRNA	"b2403"	"trna-val"	tRNA	2521173	2521248	no 	no 	Similar 
+NC_000913:2521171..2521246:tRNA	"b2403"	"trna-val"	tRNA	2521171	2521246	no 	no 	Similar 
+
+NC_000913:2521253..2521328:tRNA	"b2404"	"trna-lys"	tRNA	2521253	2521328	no 	no 	Similar 
+NC_000913:2521251..2521326:tRNA	"b2404"	"trna-lys"	tRNA	2521251	2521326	no 	no 	Similar 
+
+NC_000913:2653855..2654158:ncRNA	"b4440"	"novel srna, function unknown"	ncRNA	2653855	2654158	no 	no 	Similar 
+NC_000913:2653853..2654156:ncRNA	"b4440"	"novel srna, function unknown"	ncRNA	2653853	2654156	no 	no 	Similar 
+
+NC_000913:complement(2691157..2691340):ncRNA	"b4441"	"srna activator of glms mrna, glmz processing antagonist"	ncRNA	2691157	2691340	no 	no 	Similar 
+NC_000913:complement(2691155..2691338):ncRNA	"b4441"	"srna activator of glms mrna, glmz processing antagonist"	ncRNA	2691155	2691338	no 	no 	Similar 
+
+NC_000913:2700520..2700596:ncRNA	"b4608"	"srna antisense regulator of shob toxin"	ncRNA	2700520	2700596	no 	no 	Similar 
+NC_000913:2700518..2700594:ncRNA	"b4608"	"srna antisense regulator of shob toxin"	ncRNA	2700518	2700594	no 	no 	Similar 
+
+NC_000913:complement(2726069..2726188):rRNA	"b2588"	"5s ribosomal rna of rrng operon"	rRNA	2726069	2726188	no 	no 	Similar 
+NC_000913:complement(2726067..2726186):rRNA	"b2588"	"5s ribosomal rna of rrng operon"	rRNA	2726067	2726186	no 	no 	Similar 
+
+NC_000913:complement(2726281..2729184):rRNA	"b2589"	"23s ribosomal rna of rrng operon"	rRNA	2726281	2729184	no 	no 	Similar 
+NC_000913:complement(2726279..2729182):rRNA	"b2589"	"23s ribosomal rna of rrng operon"	rRNA	2726279	2729182	no 	no 	Similar 
+
+NC_000913:complement(2729369..2729444):tRNA	"b2590"	"trna-glu"	tRNA	2729369	2729444	no 	no 	Similar 
+NC_000913:complement(2729367..2729442):tRNA	"b2590"	"trna-glu"	tRNA	2729367	2729442	no 	no 	Similar 
+
+NC_000913:complement(2729616..2731157):rRNA	"b2591"	"16s ribosomal rna of rrng operon"	rRNA	2729616	2731157	no 	no 	Similar 
+NC_000913:complement(2729614..2731155):rRNA	"b2591"	"16s ribosomal rna of rrng operon"	rRNA	2729614	2731155	no 	no 	Similar 
+
+NC_000913:complement(2734153..2734295):ncRNA	"b4609"	"novel srna, function unknown"	ncRNA	2734153	2734295	no 	no 	Similar 
+NC_000913:complement(2734151..2734293):ncRNA	"b4609"	"novel srna, function unknown"	ncRNA	2734151	2734293	no 	no 	Similar 
+
+NC_000913:complement(2785762..2785837):tRNA	"b2652"	"trna-ile"	tRNA	2785762	2785837	no 	no 	Similar 
+NC_000913:complement(2785760..2785835):tRNA	"b2652"	"trna-ile"	tRNA	2785760	2785835	no 	no 	Similar 
+
+NC_000913:2814802..2814879:ncRNA	"b4442"	"srna antisense regulator of ompa, lamb, ompx, and phop; hfq-dependent"	ncRNA	2814802	2814879	no 	no 	Similar 
+NC_000913:2814800..2814877:ncRNA	"b4442"	"srna antisense regulator of ompa, lamb, ompx, and phop; hfq-dependent"	ncRNA	2814800	2814877	no 	no 	Similar 
+
+NC_000913:complement(2817784..2817860):tRNA	"b2691"	"trna-arg"	tRNA	2817784	2817860	no 	no 	Similar 
+NC_000913:complement(2817782..2817858):tRNA	"b2691"	"trna-arg"	tRNA	2817782	2817858	no 	no 	Similar 
+
+NC_000913:complement(2818059..2818135):tRNA	"b2692"	"trna-arg"	tRNA	2818059	2818135	no 	no 	Similar 
+NC_000913:complement(2818057..2818133):tRNA	"b2692"	"trna-arg"	tRNA	2818057	2818133	no 	no 	Similar 
+
+NC_000913:complement(2818198..2818274):tRNA	"b2693"	"trna-arg"	tRNA	2818198	2818274	no 	no 	Similar 
+NC_000913:complement(2818196..2818272):tRNA	"b2693"	"trna-arg"	tRNA	2818196	2818272	no 	no 	Similar 
+
+NC_000913:complement(2818473..2818549):tRNA	"b2694"	"trna-arg"	tRNA	2818473	2818549	no 	no 	Similar 
+NC_000913:complement(2818471..2818547):tRNA	"b2694"	"trna-arg"	tRNA	2818471	2818547	no 	no 	Similar 
+
+NC_000913:complement(2818553..2818645):tRNA	"b2695"	"trna-ser"	tRNA	2818553	2818645	no 	no 	Similar 
+NC_000913:complement(2818551..2818643):tRNA	"b2695"	"trna-ser"	tRNA	2818551	2818643	no 	no 	Similar 
+
+NC_000913:2887354..2887409:ncRNA	"b4701"	"sok-related srna, function unknown"	ncRNA	2887354	2887409	no 	no 	Similar 
+NC_000913:2887352..2887407:ncRNA	"b4701"	"sok-related srna, function unknown"	ncRNA	2887352	2887407	no 	no 	Similar 
+
+NC_000913:complement(2924156..2924524):ncRNA	"b4408"	"csra-binding srna, antagonizing csra regulation"	ncRNA	2924156	2924524	no 	no 	Similar 
+NC_000913:complement(2924154..2924522):ncRNA	"b4408"	"csra-binding srna, antagonizing csra regulation"	ncRNA	2924154	2924522	no 	no 	Similar 
+
+NC_000913:2942696..2942901:ncRNA	"b4443"	"srna antisense regulator represses oppa, dppa, glti and livj expression, hfq-dependent"	ncRNA	2942696	2942901	no 	no 	Similar 
+NC_000913:2942694..2942899:ncRNA	"b4443"	"srna antisense regulator represses oppa, dppa, glti and livj expression, hfq-dependent"	ncRNA	2942694	2942899	no 	no 	Similar 
+
+NC_000913:2947387..2947463:tRNA	"b2814"	"trna-met"	tRNA	2947387	2947463	no 	no 	Similar 
+NC_000913:2947385..2947461:tRNA	"b2814"	"trna-met"	tRNA	2947385	2947461	no 	no 	Similar 
+
+NC_000913:2947497..2947573:tRNA	"b2815"	"trna-met"	tRNA	2947497	2947573	no 	no 	Similar 
+NC_000913:2947495..2947571:tRNA	"b2815"	"trna-met"	tRNA	2947495	2947571	no 	no 	Similar 
+
+NC_000913:2947607..2947683:tRNA	"b2816"	"trna-met"	tRNA	2947607	2947683	no 	no 	Similar 
+NC_000913:2947605..2947681:tRNA	"b2816"	"trna-met"	tRNA	2947605	2947681	no 	no 	Similar 
+
+NC_000913:complement(2976102..2976189):ncRNA	"b4444"	"srna antisense regulator downregulates om proteins and curli; positively regulated by ompr/envz, hfq-dependent"	ncRNA	2976102	2976189	no 	no 	Similar 
+NC_000913:complement(2976100..2976187):ncRNA	"b4444"	"srna antisense regulator downregulates om proteins and curli; positively regulated by ompr/envz, hfq-dependent"	ncRNA	2976100	2976187	no 	no 	Similar 
+
+NC_000913:complement(2976304..2976385):ncRNA	"b4445"	"srna antisense regulator downregulates om proteins and curli; positively regulated by ompr/envz, hfq-dependent"	ncRNA	2976304	2976385	no 	no 	Similar 
+NC_000913:complement(2976302..2976383):ncRNA	"b4445"	"srna antisense regulator downregulates om proteins and curli; positively regulated by ompr/envz, hfq-dependent"	ncRNA	2976302	2976383	no 	no 	Similar 
+
+NC_000913:complement(2998984..2999057):tRNA	"b2864"	"trna-gly"	tRNA	2998984	2999057	no 	no 	Similar 
+NC_000913:complement(2998982..2999055):tRNA	"b2864"	"trna-gly"	tRNA	2998982	2999055	no 	no 	Similar 
+
+NC_000913:3055983..3056165:ncRNA	"b2911"	"6s rna inhibits rna polymerase promoter binding"	ncRNA	3055983	3056165	no 	no 	Similar 
+NC_000913:3055981..3056163:ncRNA	"b2911"	"6s rna inhibits rna polymerase promoter binding"	ncRNA	3055981	3056163	no 	no 	Similar 
+
+NC_000913:3056849..3056988:ncRNA	"b4446"	"srna antisense regulator of toxic ibsc protein"	ncRNA	3056849	3056988	no 	no 	Similar 
+NC_000913:3056847..3056986:ncRNA	"b4446"	"srna antisense regulator of toxic ibsc protein"	ncRNA	3056847	3056986	no 	no 	Similar 
+
+NC_000913:3110366..3110441:tRNA	"b2967"	"trna-phe"	tRNA	3110366	3110441	no 	no 	Similar 
+NC_000913:3110364..3110439:tRNA	"b2967"	"trna-phe"	tRNA	3110364	3110439	no 	no 	Similar 
+
+NC_000913:complement(3194723..3194865):ncRNA	"b4447"	"srna antisense regulator of toxic ibsd protein"	ncRNA	3194723	3194865	no 	no 	Similar 
+NC_000913:complement(3194721..3194863):ncRNA	"b4447"	"srna antisense regulator of toxic ibsd protein"	ncRNA	3194721	3194863	no 	no 	Similar 
+
+NC_000913:complement(3195099..3195240):ncRNA	"b4611"	"srna antisense regulator of toxic ibse protein"	ncRNA	3195099	3195240	no 	no 	Similar 
+NC_000913:complement(3195097..3195238):ncRNA	"b4611"	"srna antisense regulator of toxic ibse protein"	ncRNA	3195097	3195238	no 	no 	Similar 
+
+NC_000913:3215598..3215673:tRNA	"b3069"	"trna-ile"	tRNA	3215598	3215673	no 	no 	Similar 
+NC_000913:3215596..3215671:tRNA	"b3069"	"trna-ile"	tRNA	3215596	3215671	no 	no 	Similar 
+
+NC_000913:complement(3270216..3270592):ncRNA	"b3123"	"rnase p, m1 rna component"	ncRNA	3270216	3270592	no 	no 	Similar 
+NC_000913:complement(3270214..3270590):ncRNA	"b3123"	"rnase p, m1 rna component"	ncRNA	3270214	3270590	no 	no 	Similar 
+
+NC_000913:3311225..3311398:ncRNA	"b4449"	"novel srna, function unknown"	ncRNA	3311225	3311398	no 	no 	Similar 
+NC_000913:3311223..3311396:ncRNA	"b4449"	"novel srna, function unknown"	ncRNA	3311223	3311396	no 	no 	Similar 
+
+NC_000913:complement(3318213..3318289):tRNA	"b3171"	"trna-met"	tRNA	3318213	3318289	no 	no 	Similar 
+NC_000913:complement(3318211..3318287):tRNA	"b3171"	"trna-met"	tRNA	3318211	3318287	no 	no 	Similar 
+
+NC_000913:complement(3322072..3322158):tRNA	"b3174"	"trna-leu"	tRNA	3322072	3322158	no 	no 	Similar 
+NC_000913:complement(3322070..3322156):tRNA	"b3174"	"trna-leu"	tRNA	3322070	3322156	no 	no 	Similar 
+
+NC_000913:3350577..3350697:ncRNA	"b4450"	"srna positive antisense regulator of rpos; binds hfq"	ncRNA	3350577	3350697	no 	no 	Similar 
+NC_000913:3350575..3350695:ncRNA	"b4450"	"srna positive antisense regulator of rpos; binds hfq"	ncRNA	3350575	3350695	no 	no 	Similar 
+
+NC_000913:complement(3423423..3423542):rRNA	"b3272"	"5s ribosomal rna of rrnd operon"	rRNA	3423423	3423542	no 	no 	Similar 
+NC_000913:complement(3423421..3423540):rRNA	"b3272"	"5s ribosomal rna of rrnd operon"	rRNA	3423421	3423540	no 	no 	Similar 
+
+NC_000913:complement(3423580..3423655):tRNA	"b3273"	"trna-thr"	tRNA	3423580	3423655	no 	no 	Similar 
+NC_000913:complement(3423578..3423653):tRNA	"b3273"	"trna-thr"	tRNA	3423578	3423653	no 	no 	Similar 
+
+NC_000913:complement(3423668..3423787):rRNA	"b3274"	"5s ribosomal rna of rrnd operon"	rRNA	3423668	3423787	no 	no 	Similar 
+NC_000913:complement(3423666..3423785):rRNA	"b3274"	"5s ribosomal rna of rrnd operon"	rRNA	3423666	3423785	no 	no 	Similar 
+
+NC_000913:complement(3423880..3426783):rRNA	"b3275"	"23s ribosomal rna of rrnd operon"	rRNA	3423880	3426783	no 	no 	Similar 
+NC_000913:complement(3423878..3426781):rRNA	"b3275"	"23s ribosomal rna of rrnd operon"	rRNA	3423878	3426781	no 	no 	Similar 
+
+NC_000913:complement(3426958..3427033):tRNA	"b3276"	"trna-ala"	tRNA	3426958	3427033	no 	no 	Similar 
+NC_000913:complement(3426956..3427031):tRNA	"b3276"	"trna-ala"	tRNA	3426956	3427031	no 	no 	Similar 
+
+NC_000913:complement(3427076..3427152):tRNA	"b3277"	"trna-ile"	tRNA	3427076	3427152	no 	no 	Similar 
+NC_000913:complement(3427074..3427150):tRNA	"b3277"	"trna-ile"	tRNA	3427074	3427150	no 	no 	Similar 
+
+NC_000913:complement(3427221..3428762):rRNA	"b3278"	"16s ribosomal rna of rrnd operon"	rRNA	3427221	3428762	no 	no 	Similar 
+NC_000913:complement(3427219..3428760):rRNA	"b3278"	"16s ribosomal rna of rrnd operon"	rRNA	3427219	3428760	no 	no 	Similar 
+
+NC_000913:complement(3580927..3581016):ncRNA	"b4451"	"srna antisense regulator mediating positive fur regulon response, hfq-dependent; global iron regulator"	ncRNA	3580927	3581016	no 	no 	Similar 
+NC_000913:complement(3580926..3581015):ncRNA	"b4451"	"srna antisense regulator mediating positive fur regulon response, hfq-dependent; global iron regulator"	ncRNA	3580926	3581015	no 	no 	Similar 
+
+NC_000913:3648063..3648146:ncRNA	"b4712"	"inactive antisense srna"	ncRNA	3648063	3648146	no 	no 	Similar 
+NC_000913:3648062..3648145:ncRNA	"b4712"	"inactive antisense srna"	ncRNA	3648062	3648145	no 	no 	Similar 
+
+NC_000913:3648294..3648377:ncRNA	"b4713"	"antisense srna antitoxin for the dinq toxin"	ncRNA	3648294	3648377	no 	no 	Similar 
+NC_000913:3648293..3648376:ncRNA	"b4713"	"antisense srna antitoxin for the dinq toxin"	ncRNA	3648293	3648376	no 	no 	Similar 
+
+NC_000913:complement(3657986..3658054):ncRNA	"b4704"	"antisense srna arrs, function unknown"	ncRNA	3657986	3658054	no 	no 	Similar 
+NC_000913:complement(3657985..3658053):ncRNA	"b4704"	"antisense srna arrs, function unknown"	ncRNA	3657985	3658053	no 	no 	Similar 
+
+NC_000913:3664864..3664968:ncRNA	"b4452"	"srna antisense regulator of gadab transcriptional activator gadx mrna, hfq-dependent"	ncRNA	3664864	3664968	no 	no 	Similar 
+NC_000913:3664863..3664967:ncRNA	"b4452"	"srna antisense regulator of gadab transcriptional activator gadx mrna, hfq-dependent"	ncRNA	3664863	3664967	no 	no 	Similar 
+
+NC_000913:3700136..3700201:ncRNA	"b4454"	"srna antisense regulator affects ldrd translation; proposed addiction module in ldr-d repeat, with toxic peptide ldrd"	ncRNA	3700136	3700201	no 	no 	Similar 
+NC_000913:3700135..3700200:ncRNA	"b4454"	"srna antisense regulator affects ldrd translation; proposed addiction module in ldr-d repeat, with toxic peptide ldrd"	ncRNA	3700135	3700200	no 	no 	Similar 
+
+NC_000913:complement(3708616..3708692):tRNA	"b3545"	"trna-pro"	tRNA	3708616	3708692	no 	no 	Similar 
+NC_000913:complement(3708615..3708691):tRNA	"b3545"	"trna-pro"	tRNA	3708615	3708691	no 	no 	Similar 
+
+NC_000913:3722076..3722105:ncRNA	"b4614"		ncRNA	3722076	3722105	no 	no 	Similar 
+NC_000913:3722075..3722104:ncRNA	"b4614"		ncRNA	3722075	3722104	no 	no 	Similar 
+
+NC_000913:3836222..3836316:tRNA	"b3658"	"trna-sec"	tRNA	3836222	3836316	no 	no 	Similar 
+NC_000913:3836221..3836315:tRNA	"b3658"	"trna-sec"	tRNA	3836221	3836315	no 	no 	Similar 
+
+NC_000913:complement(3853118..3853257):ncRNA	"b4616"	"srna antisense regulators istr-1 and istr-2, affectr tisb, hfq-dependent"	ncRNA	3853118	3853257	no 	no 	Similar 
+NC_000913:complement(3853117..3853256):ncRNA	"b4616"	"srna antisense regulators istr-1 and istr-2, affectr tisb, hfq-dependent"	ncRNA	3853117	3853256	no 	no 	Similar 
+
+NC_000913:3941808..3943349:rRNA	"b3756"	"16s ribosomal rna of rrnc operon"	rRNA	3941808	3943349	no 	no 	Similar 
+NC_000913:3941807..3943348:rRNA	"b3756"	"16s ribosomal rna of rrnc operon"	rRNA	3941807	3943348	no 	no 	Similar 
+
+NC_000913:3943435..3943510:tRNA	"b3757"	"trna-glu"	tRNA	3943435	3943510	no 	no 	Similar 
+NC_000913:3943434..3943509:tRNA	"b3757"	"trna-glu"	tRNA	3943434	3943509	no 	no 	Similar 
+
+NC_000913:3943704..3946607:rRNA	"b3758"	"23s ribosomal rna of rrnc operon"	rRNA	3943704	3946607	no 	no 	Similar 
+NC_000913:3943703..3946606:rRNA	"b3758"	"23s ribosomal rna of rrnc operon"	rRNA	3943703	3946606	no 	no 	Similar 
+
+NC_000913:3946700..3946819:rRNA	"b3759"	"5s ribosomal rna of rrnc operon"	rRNA	3946700	3946819	no 	no 	Similar 
+NC_000913:3946699..3946818:rRNA	"b3759"	"5s ribosomal rna of rrnc operon"	rRNA	3946699	3946818	no 	no 	Similar 
+
+NC_000913:3946872..3946948:tRNA	"b3760"	"trna-asp"	tRNA	3946872	3946948	no 	no 	Similar 
+NC_000913:3946871..3946947:tRNA	"b3760"	"trna-asp"	tRNA	3946871	3946947	no 	no 	Similar 
+
+NC_000913:3946957..3947032:tRNA	"b3761"	"trna-trp"	tRNA	3946957	3947032	no 	no 	Similar 
+NC_000913:3946956..3947031:tRNA	"b3761"	"trna-trp"	tRNA	3946956	3947031	no 	no 	Similar 
+
+NC_000913:3982375..3982451:tRNA	"b3796"	"trna-arg"	tRNA	3982375	3982451	no 	no 	Similar 
+NC_000913:3982374..3982450:tRNA	"b3796"	"trna-arg"	tRNA	3982374	3982450	no 	no 	Similar 
+
+NC_000913:3982509..3982585:tRNA	"b3797"	"trna-his"	tRNA	3982509	3982585	no 	no 	Similar 
+NC_000913:3982508..3982584:tRNA	"b3797"	"trna-his"	tRNA	3982508	3982584	no 	no 	Similar 
+
+NC_000913:3982606..3982692:tRNA	"b3798"	"trna-leu"	tRNA	3982606	3982692	no 	no 	Similar 
+NC_000913:3982605..3982691:tRNA	"b3798"	"trna-leu"	tRNA	3982605	3982691	no 	no 	Similar 
+
+NC_000913:3982735..3982811:tRNA	"b3799"	"trna-pro"	tRNA	3982735	3982811	no 	no 	Similar 
+NC_000913:3982734..3982810:tRNA	"b3799"	"trna-pro"	tRNA	3982734	3982810	no 	no 	Similar 
+
+NC_000913:3986432..3986638:ncRNA	"b4456"	"srna antisense activator of glms mrna, hfq-dependent"	ncRNA	3986432	3986638	no 	no 	Similar 
+NC_000913:3986431..3986637:ncRNA	"b4456"	"srna antisense activator of glms mrna, hfq-dependent"	ncRNA	3986431	3986637	no 	no 	Similar 
+
+NC_000913:4019978..4020229:ncRNA	"b4707"	"putative srna of unknown function"	ncRNA	4019978	4020229	no 	no 	Similar 
+NC_000913:4019977..4020228:ncRNA	"b4707"	"putative srna of unknown function"	ncRNA	4019977	4020228	no 	no 	Similar 
+
+NC_000913:4035531..4037072:rRNA	"b3851"	"16s ribosomal rna of rrna operon"	rRNA	4035531	4037072	no 	no 	Similar 
+NC_000913:4035530..4037071:rRNA	"b3851"	"16s ribosomal rna of rrna operon"	rRNA	4035530	4037071	no 	no 	Similar 
+
+NC_000913:4037141..4037217:tRNA	"b3852"	"trna-ile"	tRNA	4037141	4037217	no 	no 	Similar 
+NC_000913:4037140..4037216:tRNA	"b3852"	"trna-ile"	tRNA	4037140	4037216	no 	no 	Similar 
+
+NC_000913:4037260..4037335:tRNA	"b3853"	"trna-ala"	tRNA	4037260	4037335	no 	no 	Similar 
+NC_000913:4037259..4037334:tRNA	"b3853"	"trna-ala"	tRNA	4037259	4037334	no 	no 	Similar 
+
+NC_000913:4037519..4040423:rRNA	"b3854"	"23s ribosomal rna of rrna operon"	rRNA	4037519	4040423	no 	no 	Similar 
+NC_000913:4037518..4040422:rRNA	"b3854"	"23s ribosomal rna of rrna operon"	rRNA	4037518	4040422	no 	no 	Similar 
+
+NC_000913:4040517..4040636:rRNA	"b3855"	"5s ribosomal rna of rrna operon"	rRNA	4040517	4040636	no 	no 	Similar 
+NC_000913:4040516..4040635:rRNA	"b3855"	"5s ribosomal rna of rrna operon"	rRNA	4040516	4040635	no 	no 	Similar 
+
+NC_000913:4049899..4050007:ncRNA	"b3864"	"spot 42 srna antisense regulator of galk translation, hfq-dependent"	ncRNA	4049899	4050007	no 	no 	Similar 
+NC_000913:4049898..4050006:ncRNA	"b3864"	"spot 42 srna antisense regulator of galk translation, hfq-dependent"	ncRNA	4049898	4050006	no 	no 	Similar 
+
+NC_000913:4051036..4051280:ncRNA	"b4457"	"csrc srna sequesters csra, a carbon flux regulator"	ncRNA	4051036	4051280	no 	no 	Similar 
+NC_000913:4051035..4051279:ncRNA	"b4457"	"csrc srna sequesters csra, a carbon flux regulator"	ncRNA	4051035	4051279	no 	no 	Similar 
+
+NC_000913:complement(4158285..4158394):ncRNA	"b4458"	"srna antisense regulator activates genes that detoxify oxidative damage, hfq-dependent"	ncRNA	4158285	4158394	no 	no 	Similar 
+NC_000913:complement(4158284..4158393):ncRNA	"b4458"	"srna antisense regulator activates genes that detoxify oxidative damage, hfq-dependent"	ncRNA	4158284	4158393	no 	no 	Similar 
+
+NC_000913:4166659..4168200:rRNA	"b3968"	"16s ribosomal rna of rrnb operon"	rRNA	4166659	4168200	no 	no 	Similar 
+NC_000913:4166658..4168199:rRNA	"b3968"	"16s ribosomal rna of rrnb operon"	rRNA	4166658	4168199	no 	no 	Similar 
+
+NC_000913:4168372..4168447:tRNA	"b3969"	"trna-glu"	tRNA	4168372	4168447	no 	no 	Similar 
+NC_000913:4168371..4168446:tRNA	"b3969"	"trna-glu"	tRNA	4168371	4168446	no 	no 	Similar 
+
+NC_000913:4168641..4171544:rRNA	"b3970"	"23s ribosomal rna of rrnb operon"	rRNA	4168641	4171544	no 	no 	Similar 
+NC_000913:4168640..4171543:rRNA	"b3970"	"23s ribosomal rna of rrnb operon"	rRNA	4168640	4171543	no 	no 	Similar 
+
+NC_000913:4171637..4171756:rRNA	"b3971"	"5s ribosomal rna of rrnb operon"	rRNA	4171637	4171756	no 	no 	Similar 
+NC_000913:4171636..4171755:rRNA	"b3971"	"5s ribosomal rna of rrnb operon"	rRNA	4171636	4171755	no 	no 	Similar 
+
+NC_000913:4175388..4175463:tRNA	"b3976"	"trna-thr"	tRNA	4175388	4175463	no 	no 	Similar 
+NC_000913:4175387..4175462:tRNA	"b3976"	"trna-thr"	tRNA	4175387	4175462	no 	no 	Similar 
+
+NC_000913:4175472..4175556:tRNA	"b3977"	"trna-tyr"	tRNA	4175472	4175556	no 	no 	Similar 
+NC_000913:4175471..4175555:tRNA	"b3977"	"trna-tyr"	tRNA	4175471	4175555	no 	no 	Similar 
+
+NC_000913:4175673..4175747:tRNA	"b3978"	"trna-gly"	tRNA	4175673	4175747	no 	no 	Similar 
+NC_000913:4175672..4175746:tRNA	"b3978"	"trna-gly"	tRNA	4175672	4175746	no 	no 	Similar 
+
+NC_000913:4175754..4175829:tRNA	"b3979"	"trna-thr"	tRNA	4175754	4175829	no 	no 	Similar 
+NC_000913:4175753..4175828:tRNA	"b3979"	"trna-thr"	tRNA	4175753	4175828	no 	no 	Similar 
+
+NC_000913:complement(4190327..4190487):ncRNA	"b4691"	"novel srna, function unknown"	ncRNA	4190327	4190487	no 	no 	Similar 
+NC_000913:complement(4190326..4190486):ncRNA	"b4691"	"novel srna, function unknown"	ncRNA	4190326	4190486	no 	no 	Similar 
+
+NC_000913:4208147..4209688:rRNA	"b4007"	"16s ribosomal rna of rrne operon"	rRNA	4208147	4209688	no 	no 	Similar 
+NC_000913:4208146..4209687:rRNA	"b4007"	"16s ribosomal rna of rrne operon"	rRNA	4208146	4209687	no 	no 	Similar 
+
+NC_000913:4209774..4209849:tRNA	"b4008"	"trna-glu"	tRNA	4209774	4209849	no 	no 	Similar 
+NC_000913:4209773..4209848:tRNA	"b4008"	"trna-glu"	tRNA	4209773	4209848	no 	no 	Similar 
+
+NC_000913:4210043..4212946:rRNA	"b4009"	"23s ribosomal rna of rrne operon"	rRNA	4210043	4212946	no 	no 	Similar 
+NC_000913:4210042..4212945:rRNA	"b4009"	"23s ribosomal rna of rrne operon"	rRNA	4210042	4212945	no 	no 	Similar 
+
+NC_000913:4213040..4213159:rRNA	"b4010"	"5s ribosomal rna of rrne operon"	rRNA	4213040	4213159	no 	no 	Similar 
+NC_000913:4213039..4213158:rRNA	"b4010"	"5s ribosomal rna of rrne operon"	rRNA	4213039	4213158	no 	no 	Similar 
+
+NC_000913:complement(4277927..4278066):ncRNA	"b4459"	"novel srna, function unknown"	ncRNA	4277927	4278066	no 	no 	Similar 
+NC_000913:complement(4277926..4278065):ncRNA	"b4459"	"novel srna, function unknown"	ncRNA	4277926	4278065	no 	no 	Similar 
+
+NC_000913:complement(4362551..4362626):tRNA	"b4134"	"trna-phe"	tRNA	4362551	4362626	no 	no 	Similar 
+NC_000913:complement(4362552..4362627):tRNA	"b4134"	"trna-phe"	tRNA	4362552	4362627	no 	no 	Similar 
+
+NC_000913:4392360..4392435:tRNA	"b4163"	"trna-gly"	tRNA	4392360	4392435	no 	no 	Similar 
+NC_000913:4392361..4392436:tRNA	"b4163"	"trna-gly"	tRNA	4392361	4392436	no 	no 	Similar 
+
+NC_000913:4392472..4392547:tRNA	"b4164"	"trna-gly"	tRNA	4392472	4392547	no 	no 	Similar 
+NC_000913:4392473..4392548:tRNA	"b4164"	"trna-gly"	tRNA	4392473	4392548	no 	no 	Similar 
+
+NC_000913:4392583..4392658:tRNA	"b4165"	"trna-gly"	tRNA	4392583	4392658	no 	no 	Similar 
+NC_000913:4392584..4392659:tRNA	"b4165"	"trna-gly"	tRNA	4392584	4392659	no 	no 	Similar 
+
+NC_000913:4496405..4496489:tRNA	"b4270"	"trna-leu"	tRNA	4496405	4496489	no 	no 	Similar 
+NC_000913:4496406..4496490:tRNA	"b4270"	"trna-leu"	tRNA	4496406	4496490	no 	no 	Similar 
+
+NC_000913:4527977..4528066:ncRNA	"b4624"	"novel srna, function unknown"	ncRNA	4527977	4528066	no 	no 	Similar 
+NC_000913:4527978..4528067:ncRNA	"b4624"	"novel srna, function unknown"	ncRNA	4527978	4528067	no 	no 	Similar 
+
+NC_000913:4579835..4579911:ncRNA	"b4625"	"srna antisense regulator destabilizing divergent and overlapping syme mrna"	ncRNA	4579835	4579911	no 	no 	Similar 
+NC_000913:4579836..4579912:ncRNA	"b4625"	"srna antisense regulator destabilizing divergent and overlapping syme mrna"	ncRNA	4579836	4579912	no 	no 	Similar 
+
+NC_000913:complement(4606079..4606165):tRNA	"b4368"	"trna-leu"	tRNA	4606079	4606165	no 	no 	Similar 
+NC_000913:complement(4606080..4606166):tRNA	"b4368"	"trna-leu"	tRNA	4606080	4606166	no 	no 	Similar 
+
+NC_000913:complement(4606200..4606286):tRNA	"b4369"	"trna-leu"	tRNA	4606200	4606286	no 	no 	Similar 
+NC_000913:complement(4606201..4606287):tRNA	"b4369"	"trna-leu"	tRNA	4606201	4606287	no 	no 	Similar 
+
+NC_000913:complement(4606315..4606401):tRNA	"b4370"	"trna-leu"	tRNA	4606315	4606401	no 	no 	Similar 
+NC_000913:complement(4606316..4606402):tRNA	"b4370"	"trna-leu"	tRNA	4606316	4606402	no 	no 	Similar 
+
